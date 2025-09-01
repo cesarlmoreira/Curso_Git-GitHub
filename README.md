@@ -11,7 +11,7 @@
 
   **Branch:** Ramificação de um projeto em desenvolvimento.
   
-  **Merge:** Combinação de 2 ou mais branches.
+  **Merge:** Combinação de 2 ou mais branches (ramificações).
 
   **Clone:** Clonagem de repositórios disponíveis no repositório remoto.
 
@@ -27,7 +27,6 @@
   
   **MarkDown:** Linguagem de marcação do GitHub para formatar textos com sintaxe simples.
 ---  
-
 <img width="947" height="732" alt="Certificado do curso de Git e GitHub" src="https://github.com/user-attachments/assets/03948e88-63bd-418d-bea0-f6c31b15687b"/>
 
 <sub>*Link com validação do certificado:* </sub> [<sub>Clique aqui</sub>](https://www.cursoemvideo.com/validacao-de-certificado/?codigo=70C92-A18C-4)

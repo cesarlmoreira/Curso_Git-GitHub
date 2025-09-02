@@ -26,6 +26,8 @@
   **Pull Request:** Solicitação de inclusão de alterações no projeto principal.
   
   **Markdown:** Linguagem de marcação do GitHub para formatar textos com sintaxe simples.
+
+  **GitHub Pages:** Hospedagem de site diretamente de um repositório.
 ---  
 <img width="947" height="732" alt="Certificado do curso de Git e GitHub" src="https://github.com/user-attachments/assets/03948e88-63bd-418d-bea0-f6c31b15687b"/>
 

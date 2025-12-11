@@ -1,5 +1,5 @@
 # **Curso de Git** *(Sistema de Controle de Versão)* **& GitHub** *(Plataforma de Hospedagem e Colaboração)*
-## Curso realizado através da plataforma [Curso em Video](https://www.cursoemvideo.com/) com duração total de 20 horas.
+### Curso realizado através da plataforma [Curso em Video](https://www.cursoemvideo.com/) com duração total de 20 horas.
 
 ### Assuntos abordados:
 
